@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>doc/crew_member_list.txt</file>
+        <file>doc/information.txt</file>
+        <file>doc/information_person.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pic/iphone_16promax.png</file>
+        <file>pic/RedmiK80.png</file>
+        <file>pic/Su7.png</file>
+        <file>pic/joinfree.png</file>
+        <file>pic/cloud.png</file>
+    </qresource>
+</RCC>
